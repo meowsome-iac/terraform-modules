@@ -1,0 +1,24 @@
+{
+  "packages": {
+    "modules/cat": {
+      "release-type": "terraform-module",
+      "package-name": "cat"
+    },
+    "modules/dog": {
+      "release-type": "terraform-module",
+      "package-name": "dog"
+    },
+    "modules/chicken": {
+      "release-type": "terraform-module",
+      "package-name": "chicken"
+    },
+    "modules/farm": {
+      "release-type": "terraform-module",
+      "package-name": "farm"
+    },
+    "modules/barn": {
+      "release-type": "terraform-module",
+      "package-name": "barn"
+    }
+  }
+}
