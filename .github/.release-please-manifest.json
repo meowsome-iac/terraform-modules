@@ -1,7 +1,7 @@
 {
-  "modules/cat": "0.0.0",
-  "modules/dog": "0.0.0",
-  "modules/chicken": "0.0.0",
-  "modules/farm": "0.0.0",
-  "modules/barn": "0.0.0"
+  "modules/cat": "0.1.0",
+  "modules/dog": "0.1.0",
+  "modules/chicken": "0.1.0",
+  "modules/farm": "0.1.0",
+  "modules/barn": "0.1.0"
 }
