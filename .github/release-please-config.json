@@ -1,22 +1,22 @@
 {
   "packages": {
-    "modules/cat": {
+    "infra/modules/animals/cat": {
       "release-type": "terraform-module",
       "package-name": "cat"
     },
-    "modules/dog": {
+    "infra/modules/animals/dog": {
       "release-type": "terraform-module",
       "package-name": "dog"
     },
-    "modules/chicken": {
+    "infra/modules/animals/chicken": {
       "release-type": "terraform-module",
       "package-name": "chicken"
     },
-    "modules/farm": {
+    "infra/modules/farm": {
       "release-type": "terraform-module",
       "package-name": "farm"
     },
-    "modules/barn": {
+    "infra/modules/buildings/barn": {
       "release-type": "terraform-module",
       "package-name": "barn"
     }
