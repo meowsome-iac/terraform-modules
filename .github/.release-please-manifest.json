@@ -3,5 +3,10 @@
   "infra/modules/animals/dog": "0.1.0",
   "infra/modules/animals/chicken": "0.1.0",
   "infra/modules/farm": "0.1.0",
-  "infra/modules/buildings/barn": "0.1.0"
+  "infra/modules/buildings/barn": "0.1.0",
+  "modules/cat": "0.1.0",
+  "modules/dog": "0.1.0",
+  "modules/chicken": "0.1.0",
+  "modules/farm": "0.1.0",
+  "modules/barn": "0.1.0"
 }
