@@ -1,7 +1,7 @@
 {
-  "infra/modules/home-cat": "0.2.0",
-  "infra/modules/farm-dog": "0.2.0",
-  "infra/modules/farm-chicken": "0.2.0",
+  "infra/modules/home-cat": "0.3.0",
+  "infra/modules/farm-dog": "0.3.0",
+  "infra/modules/farm-chicken": "0.3.0",
   "infra/modules/farm": "0.2.0",
-  "infra/modules/home-sofa": "0.2.0"
+  "infra/modules/home-sofa": "0.3.0"
 }

@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/meowsome-iac/terraform-modules/compare/chicken-v0.2.0...chicken-v0.3.0) (2025-11-20)
+
+
+### Features
+
+* rename modules ([534f2ba](https://github.com/meowsome-iac/terraform-modules/commit/534f2ba671ab7ef4e68cf17b2e0ac2c00453bc3e))
+
 ## [0.2.0](https://github.com/meowsome-iac/terraform-modules/compare/cat-v0.1.0...cat-v0.2.0) (2025-11-20)
 
 
