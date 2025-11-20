@@ -2,7 +2,6 @@
 
 ## 0.1.0 (2025-10-07)
 
-
 ### Features
 
 * add dog, chicken, farm, and barn terraform modules with release-please automation ([#1](https://github.com/meowsome-iac/terraform-modules/issues/1)) ([bedff62](https://github.com/meowsome-iac/terraform-modules/commit/bedff623a93594a153fdf7e3c785371e5a92ec48))
