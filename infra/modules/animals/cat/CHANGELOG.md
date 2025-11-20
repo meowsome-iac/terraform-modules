@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/meowsome-iac/terraform-modules/compare/cat-v0.1.0...cat-v0.2.0) (2025-11-20)
+
+
+### Features
+
+* **cat:** add submodule for tail ([7bcd362](https://github.com/meowsome-iac/terraform-modules/commit/7bcd3629dd11c1b880e65423ffcfdbabf2cb829f))
+
 ## 0.1.0 (2025-10-07)
 
 
