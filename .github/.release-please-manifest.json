@@ -3,5 +3,5 @@
   "infra/modules/animals/dog": "0.1.0",
   "infra/modules/animals/chicken": "0.1.0",
   "infra/modules/farm": "0.1.0",
-  "infra/modules/buildings/barn": "0.1.0",
+  "infra/modules/buildings/barn": "0.1.0"
 }
